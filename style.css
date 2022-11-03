@@ -1,0 +1,31 @@
+.jumbotron img {
+    width: 200px;
+    border: 1px solid darkcyan;
+    background: skyblue;
+}
+
+.jumbotron {
+    background: cornflowerblue;
+
+}
+
+.bg-light img {
+    width: 200px;
+    border: 1px solid darkcyan;
+
+}
+
+.bg-light h1 {
+    font-size: 64px;
+}
+
+.about hr {
+    width: 120px;
+    border-top: 2px solid salmon;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    min-height: 550px;
+}
